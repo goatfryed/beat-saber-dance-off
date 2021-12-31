@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+
+@import "~bulma/sass/utilities/initial-variables";
+
+$scheme-main: $black;
+$scheme-invert: $white;
+$primary: hsl(349, 100%, 50%);
+
+$body-size: 14px;
+
+$family-sans-serif: 'Fira Code', monospace;
+
+$input-color: $grey-darker;
+$input-background-color: $white-bis;
+
+@import "~bulma";
